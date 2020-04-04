@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProfiles>
-<!-- Written by QtCreator 4.11.2, 2020-04-04T00:14:40. -->
+<!-- Written by QtCreator 4.11.2, 2020-04-04T00:36:00. -->
 <qtcreator>
  <data>
   <variable>Kit.IrrelevantAspects</variable>
@@ -27,7 +27,7 @@
      <value type="QString" key="Toolset"></value>
     </valuemap>
     <value type="QString" key="CMakeProjectManager.CMakeKitInformation">qt.tools.cmake</value>
-    <value type="QString" key="Debugger.Information">{4d52ee0a-b87c-48d5-beee-44981f9483e7}</value>
+    <value type="QString" key="Debugger.Information">{74174829-2aaa-4d81-8ce4-3c24e4c76da2}</value>
     <value type="QString" key="PE.Profile.Device">Android Device</value>
     <value type="QString" key="PE.Profile.DeviceType">Android.Device.Type</value>
     <valuemap type="QVariantMap" key="PE.Profile.ToolChainsV3">
@@ -43,13 +43,13 @@
    <value type="QString" key="PE.Profile.Name">Android for x86_64 (Clang Qt 5.13.2 for Android x86_64)</value>
    <value type="bool" key="PE.Profile.SDK">false</value>
    <valuelist type="QVariantList" key="PE.Profile.StickyInfo">
-    <value type="QString">CMake.GeneratorKitInformation</value>
-    <value type="QString">CMakeProjectManager.CMakeKitInformation</value>
-    <value type="QString">Debugger.Information</value>
-    <value type="QString">CMake.ConfigurationKitInformation</value>
     <value type="QString">PE.Profile.DeviceType</value>
-    <value type="QString">PE.Profile.ToolChainsV3</value>
     <value type="QString">PE.Profile.Device</value>
+    <value type="QString">Debugger.Information</value>
+    <value type="QString">CMake.GeneratorKitInformation</value>
+    <value type="QString">CMake.ConfigurationKitInformation</value>
+    <value type="QString">PE.Profile.ToolChainsV3</value>
+    <value type="QString">CMakeProjectManager.CMakeKitInformation</value>
     <value type="QString">QtSupport.QtInformation</value>
    </valuelist>
   </valuemap>
@@ -75,7 +75,7 @@
      <value type="QString" key="Toolset"></value>
     </valuemap>
     <value type="QString" key="CMakeProjectManager.CMakeKitInformation">qt.tools.cmake</value>
-    <value type="QString" key="Debugger.Information">{3521edb3-ff0a-4da5-850e-a861e0c70fb5}</value>
+    <value type="QString" key="Debugger.Information">{f5808cdc-04d8-4a2e-8728-bc65d7159cc1}</value>
     <value type="QString" key="PE.Profile.Device">Android Device</value>
     <value type="QString" key="PE.Profile.DeviceType">Android.Device.Type</value>
     <valuemap type="QVariantMap" key="PE.Profile.ToolChainsV3">
@@ -91,13 +91,13 @@
    <value type="QString" key="PE.Profile.Name">Android for arm64-v8a (Clang Qt 5.13.2 for Android ARM64-v8a)</value>
    <value type="bool" key="PE.Profile.SDK">false</value>
    <valuelist type="QVariantList" key="PE.Profile.StickyInfo">
-    <value type="QString">CMake.GeneratorKitInformation</value>
-    <value type="QString">CMakeProjectManager.CMakeKitInformation</value>
-    <value type="QString">Debugger.Information</value>
-    <value type="QString">CMake.ConfigurationKitInformation</value>
     <value type="QString">PE.Profile.DeviceType</value>
-    <value type="QString">PE.Profile.ToolChainsV3</value>
     <value type="QString">PE.Profile.Device</value>
+    <value type="QString">Debugger.Information</value>
+    <value type="QString">CMake.GeneratorKitInformation</value>
+    <value type="QString">CMake.ConfigurationKitInformation</value>
+    <value type="QString">PE.Profile.ToolChainsV3</value>
+    <value type="QString">CMakeProjectManager.CMakeKitInformation</value>
     <value type="QString">QtSupport.QtInformation</value>
    </valuelist>
   </valuemap>
@@ -123,7 +123,7 @@
      <value type="QString" key="Toolset"></value>
     </valuemap>
     <value type="QString" key="CMakeProjectManager.CMakeKitInformation">qt.tools.cmake</value>
-    <value type="QString" key="Debugger.Information">{2163160a-8d76-42eb-97d8-5a15b0c6454c}</value>
+    <value type="QString" key="Debugger.Information">{ca248b71-ecc0-4702-a6a4-6c000ffb621e}</value>
     <value type="QString" key="PE.Profile.Device">Android Device</value>
     <value type="QString" key="PE.Profile.DeviceType">Android.Device.Type</value>
     <valuemap type="QVariantMap" key="PE.Profile.ToolChainsV3">
@@ -139,13 +139,13 @@
    <value type="QString" key="PE.Profile.Name">Android for x86 (Clang Qt 5.13.2 for Android x86)</value>
    <value type="bool" key="PE.Profile.SDK">false</value>
    <valuelist type="QVariantList" key="PE.Profile.StickyInfo">
-    <value type="QString">CMake.GeneratorKitInformation</value>
-    <value type="QString">CMakeProjectManager.CMakeKitInformation</value>
-    <value type="QString">Debugger.Information</value>
-    <value type="QString">CMake.ConfigurationKitInformation</value>
     <value type="QString">PE.Profile.DeviceType</value>
-    <value type="QString">PE.Profile.ToolChainsV3</value>
     <value type="QString">PE.Profile.Device</value>
+    <value type="QString">Debugger.Information</value>
+    <value type="QString">CMake.GeneratorKitInformation</value>
+    <value type="QString">CMake.ConfigurationKitInformation</value>
+    <value type="QString">PE.Profile.ToolChainsV3</value>
+    <value type="QString">CMakeProjectManager.CMakeKitInformation</value>
     <value type="QString">QtSupport.QtInformation</value>
    </valuelist>
   </valuemap>
@@ -465,7 +465,7 @@
      <value type="QString" key="Toolset"></value>
     </valuemap>
     <value type="QString" key="CMakeProjectManager.CMakeKitInformation">qt.tools.cmake</value>
-    <value type="QString" key="Debugger.Information">{3521edb3-ff0a-4da5-850e-a861e0c70fb5}</value>
+    <value type="QString" key="Debugger.Information">{f5808cdc-04d8-4a2e-8728-bc65d7159cc1}</value>
     <value type="QString" key="PE.Profile.Device">Android Device</value>
     <value type="QString" key="PE.Profile.DeviceType">Android.Device.Type</value>
     <valuemap type="QVariantMap" key="PE.Profile.ToolChainsV3">
@@ -481,13 +481,13 @@
    <value type="QString" key="PE.Profile.Name">Android for arm64-v8a (Clang Qt 5.12.5 for Android ARM64-v8a)</value>
    <value type="bool" key="PE.Profile.SDK">false</value>
    <valuelist type="QVariantList" key="PE.Profile.StickyInfo">
-    <value type="QString">CMake.GeneratorKitInformation</value>
-    <value type="QString">CMakeProjectManager.CMakeKitInformation</value>
-    <value type="QString">Debugger.Information</value>
-    <value type="QString">CMake.ConfigurationKitInformation</value>
     <value type="QString">PE.Profile.DeviceType</value>
-    <value type="QString">PE.Profile.ToolChainsV3</value>
     <value type="QString">PE.Profile.Device</value>
+    <value type="QString">Debugger.Information</value>
+    <value type="QString">CMake.GeneratorKitInformation</value>
+    <value type="QString">CMake.ConfigurationKitInformation</value>
+    <value type="QString">PE.Profile.ToolChainsV3</value>
+    <value type="QString">CMakeProjectManager.CMakeKitInformation</value>
     <value type="QString">QtSupport.QtInformation</value>
    </valuelist>
   </valuemap>
@@ -513,7 +513,7 @@
      <value type="QString" key="Toolset"></value>
     </valuemap>
     <value type="QString" key="CMakeProjectManager.CMakeKitInformation">qt.tools.cmake</value>
-    <value type="QString" key="Debugger.Information">{3521edb3-ff0a-4da5-850e-a861e0c70fb5}</value>
+    <value type="QString" key="Debugger.Information">{f5808cdc-04d8-4a2e-8728-bc65d7159cc1}</value>
     <value type="QString" key="PE.Profile.Device">Android Device</value>
     <value type="QString" key="PE.Profile.DeviceType">Android.Device.Type</value>
     <valuemap type="QVariantMap" key="PE.Profile.ToolChainsV3">
@@ -529,13 +529,13 @@
    <value type="QString" key="PE.Profile.Name">Android for arm64-v8a (Clang Qt 5.12.6 for Android ARM64-v8a)</value>
    <value type="bool" key="PE.Profile.SDK">false</value>
    <valuelist type="QVariantList" key="PE.Profile.StickyInfo">
-    <value type="QString">CMake.GeneratorKitInformation</value>
-    <value type="QString">CMakeProjectManager.CMakeKitInformation</value>
-    <value type="QString">Debugger.Information</value>
-    <value type="QString">CMake.ConfigurationKitInformation</value>
     <value type="QString">PE.Profile.DeviceType</value>
-    <value type="QString">PE.Profile.ToolChainsV3</value>
     <value type="QString">PE.Profile.Device</value>
+    <value type="QString">Debugger.Information</value>
+    <value type="QString">CMake.GeneratorKitInformation</value>
+    <value type="QString">CMake.ConfigurationKitInformation</value>
+    <value type="QString">PE.Profile.ToolChainsV3</value>
+    <value type="QString">CMakeProjectManager.CMakeKitInformation</value>
     <value type="QString">QtSupport.QtInformation</value>
    </valuelist>
   </valuemap>
@@ -561,7 +561,7 @@
      <value type="QString" key="Toolset"></value>
     </valuemap>
     <value type="QString" key="CMakeProjectManager.CMakeKitInformation">qt.tools.cmake</value>
-    <value type="QString" key="Debugger.Information">{912aa27a-1d85-43ec-ae93-dcbda2b4c413}</value>
+    <value type="QString" key="Debugger.Information">{5976bd84-893b-4155-87bf-9661a786df29}</value>
     <value type="QString" key="PE.Profile.Device">Android Device</value>
     <value type="QString" key="PE.Profile.DeviceType">Android.Device.Type</value>
     <valuemap type="QVariantMap" key="PE.Profile.ToolChainsV3">
@@ -577,13 +577,13 @@
    <value type="QString" key="PE.Profile.Name">Android for armeabi-v7a (Clang Qt 5.13.2 for Android ARMv7)</value>
    <value type="bool" key="PE.Profile.SDK">false</value>
    <valuelist type="QVariantList" key="PE.Profile.StickyInfo">
-    <value type="QString">CMake.GeneratorKitInformation</value>
-    <value type="QString">CMakeProjectManager.CMakeKitInformation</value>
-    <value type="QString">Debugger.Information</value>
-    <value type="QString">CMake.ConfigurationKitInformation</value>
     <value type="QString">PE.Profile.DeviceType</value>
-    <value type="QString">PE.Profile.ToolChainsV3</value>
     <value type="QString">PE.Profile.Device</value>
+    <value type="QString">Debugger.Information</value>
+    <value type="QString">CMake.GeneratorKitInformation</value>
+    <value type="QString">CMake.ConfigurationKitInformation</value>
+    <value type="QString">PE.Profile.ToolChainsV3</value>
+    <value type="QString">CMakeProjectManager.CMakeKitInformation</value>
     <value type="QString">QtSupport.QtInformation</value>
    </valuelist>
   </valuemap>
@@ -609,7 +609,7 @@
      <value type="QString" key="Toolset"></value>
     </valuemap>
     <value type="QString" key="CMakeProjectManager.CMakeKitInformation">qt.tools.cmake</value>
-    <value type="QString" key="Debugger.Information">{912aa27a-1d85-43ec-ae93-dcbda2b4c413}</value>
+    <value type="QString" key="Debugger.Information">{5976bd84-893b-4155-87bf-9661a786df29}</value>
     <value type="QString" key="PE.Profile.Device">Android Device</value>
     <value type="QString" key="PE.Profile.DeviceType">Android.Device.Type</value>
     <valuemap type="QVariantMap" key="PE.Profile.ToolChainsV3">
@@ -625,13 +625,13 @@
    <value type="QString" key="PE.Profile.Name">Android for armeabi-v7a (Clang Qt 5.12.5 for Android ARMv7)</value>
    <value type="bool" key="PE.Profile.SDK">false</value>
    <valuelist type="QVariantList" key="PE.Profile.StickyInfo">
-    <value type="QString">CMake.GeneratorKitInformation</value>
-    <value type="QString">CMakeProjectManager.CMakeKitInformation</value>
-    <value type="QString">Debugger.Information</value>
-    <value type="QString">CMake.ConfigurationKitInformation</value>
     <value type="QString">PE.Profile.DeviceType</value>
-    <value type="QString">PE.Profile.ToolChainsV3</value>
     <value type="QString">PE.Profile.Device</value>
+    <value type="QString">Debugger.Information</value>
+    <value type="QString">CMake.GeneratorKitInformation</value>
+    <value type="QString">CMake.ConfigurationKitInformation</value>
+    <value type="QString">PE.Profile.ToolChainsV3</value>
+    <value type="QString">CMakeProjectManager.CMakeKitInformation</value>
     <value type="QString">QtSupport.QtInformation</value>
    </valuelist>
   </valuemap>
@@ -657,7 +657,7 @@
      <value type="QString" key="Toolset"></value>
     </valuemap>
     <value type="QString" key="CMakeProjectManager.CMakeKitInformation">qt.tools.cmake</value>
-    <value type="QString" key="Debugger.Information">{912aa27a-1d85-43ec-ae93-dcbda2b4c413}</value>
+    <value type="QString" key="Debugger.Information">{5976bd84-893b-4155-87bf-9661a786df29}</value>
     <value type="QString" key="PE.Profile.Device">Android Device</value>
     <value type="QString" key="PE.Profile.DeviceType">Android.Device.Type</value>
     <valuemap type="QVariantMap" key="PE.Profile.ToolChainsV3">
@@ -673,13 +673,13 @@
    <value type="QString" key="PE.Profile.Name">Android for armeabi-v7a (Clang Qt 5.12.6 for Android ARMv7)</value>
    <value type="bool" key="PE.Profile.SDK">false</value>
    <valuelist type="QVariantList" key="PE.Profile.StickyInfo">
-    <value type="QString">CMake.GeneratorKitInformation</value>
-    <value type="QString">CMakeProjectManager.CMakeKitInformation</value>
-    <value type="QString">Debugger.Information</value>
-    <value type="QString">CMake.ConfigurationKitInformation</value>
     <value type="QString">PE.Profile.DeviceType</value>
-    <value type="QString">PE.Profile.ToolChainsV3</value>
     <value type="QString">PE.Profile.Device</value>
+    <value type="QString">Debugger.Information</value>
+    <value type="QString">CMake.GeneratorKitInformation</value>
+    <value type="QString">CMake.ConfigurationKitInformation</value>
+    <value type="QString">PE.Profile.ToolChainsV3</value>
+    <value type="QString">CMakeProjectManager.CMakeKitInformation</value>
     <value type="QString">QtSupport.QtInformation</value>
    </valuelist>
   </valuemap>
@@ -705,7 +705,7 @@
      <value type="QString" key="Toolset"></value>
     </valuemap>
     <value type="QString" key="CMakeProjectManager.CMakeKitInformation">qt.tools.cmake</value>
-    <value type="QString" key="Debugger.Information">{912aa27a-1d85-43ec-ae93-dcbda2b4c413}</value>
+    <value type="QString" key="Debugger.Information">{5976bd84-893b-4155-87bf-9661a786df29}</value>
     <value type="QString" key="PE.Profile.Device">Android Device</value>
     <value type="QString" key="PE.Profile.DeviceType">Android.Device.Type</value>
     <valuemap type="QVariantMap" key="PE.Profile.ToolChainsV3">
@@ -721,13 +721,13 @@
    <value type="QString" key="PE.Profile.Name">Android for armeabi-v7a,arm64-v8a,x86,x86_64 (Clang Qt 5.14.1 for Android)</value>
    <value type="bool" key="PE.Profile.SDK">false</value>
    <valuelist type="QVariantList" key="PE.Profile.StickyInfo">
-    <value type="QString">CMake.GeneratorKitInformation</value>
-    <value type="QString">CMakeProjectManager.CMakeKitInformation</value>
-    <value type="QString">Debugger.Information</value>
-    <value type="QString">CMake.ConfigurationKitInformation</value>
     <value type="QString">PE.Profile.DeviceType</value>
-    <value type="QString">PE.Profile.ToolChainsV3</value>
     <value type="QString">PE.Profile.Device</value>
+    <value type="QString">Debugger.Information</value>
+    <value type="QString">CMake.GeneratorKitInformation</value>
+    <value type="QString">CMake.ConfigurationKitInformation</value>
+    <value type="QString">PE.Profile.ToolChainsV3</value>
+    <value type="QString">CMakeProjectManager.CMakeKitInformation</value>
     <value type="QString">QtSupport.QtInformation</value>
    </valuelist>
   </valuemap>
@@ -753,7 +753,7 @@
      <value type="QString" key="Toolset"></value>
     </valuemap>
     <value type="QString" key="CMakeProjectManager.CMakeKitInformation">qt.tools.cmake</value>
-    <value type="QString" key="Debugger.Information">{2163160a-8d76-42eb-97d8-5a15b0c6454c}</value>
+    <value type="QString" key="Debugger.Information">{ca248b71-ecc0-4702-a6a4-6c000ffb621e}</value>
     <value type="QString" key="PE.Profile.Device">Android Device</value>
     <value type="QString" key="PE.Profile.DeviceType">Android.Device.Type</value>
     <valuemap type="QVariantMap" key="PE.Profile.ToolChainsV3">
@@ -769,13 +769,13 @@
    <value type="QString" key="PE.Profile.Name">Android for x86 (Clang Qt 5.12.6 for Android x86)</value>
    <value type="bool" key="PE.Profile.SDK">false</value>
    <valuelist type="QVariantList" key="PE.Profile.StickyInfo">
-    <value type="QString">CMake.GeneratorKitInformation</value>
-    <value type="QString">CMakeProjectManager.CMakeKitInformation</value>
-    <value type="QString">Debugger.Information</value>
-    <value type="QString">CMake.ConfigurationKitInformation</value>
     <value type="QString">PE.Profile.DeviceType</value>
-    <value type="QString">PE.Profile.ToolChainsV3</value>
     <value type="QString">PE.Profile.Device</value>
+    <value type="QString">Debugger.Information</value>
+    <value type="QString">CMake.GeneratorKitInformation</value>
+    <value type="QString">CMake.ConfigurationKitInformation</value>
+    <value type="QString">PE.Profile.ToolChainsV3</value>
+    <value type="QString">CMakeProjectManager.CMakeKitInformation</value>
     <value type="QString">QtSupport.QtInformation</value>
    </valuelist>
   </valuemap>
@@ -801,7 +801,7 @@
      <value type="QString" key="Toolset"></value>
     </valuemap>
     <value type="QString" key="CMakeProjectManager.CMakeKitInformation">qt.tools.cmake</value>
-    <value type="QString" key="Debugger.Information">{2163160a-8d76-42eb-97d8-5a15b0c6454c}</value>
+    <value type="QString" key="Debugger.Information">{ca248b71-ecc0-4702-a6a4-6c000ffb621e}</value>
     <value type="QString" key="PE.Profile.Device">Android Device</value>
     <value type="QString" key="PE.Profile.DeviceType">Android.Device.Type</value>
     <valuemap type="QVariantMap" key="PE.Profile.ToolChainsV3">
@@ -817,13 +817,13 @@
    <value type="QString" key="PE.Profile.Name">Android for x86 (Clang Qt 5.12.5 for Android x86)</value>
    <value type="bool" key="PE.Profile.SDK">false</value>
    <valuelist type="QVariantList" key="PE.Profile.StickyInfo">
-    <value type="QString">CMake.GeneratorKitInformation</value>
-    <value type="QString">CMakeProjectManager.CMakeKitInformation</value>
-    <value type="QString">Debugger.Information</value>
-    <value type="QString">CMake.ConfigurationKitInformation</value>
     <value type="QString">PE.Profile.DeviceType</value>
-    <value type="QString">PE.Profile.ToolChainsV3</value>
     <value type="QString">PE.Profile.Device</value>
+    <value type="QString">Debugger.Information</value>
+    <value type="QString">CMake.GeneratorKitInformation</value>
+    <value type="QString">CMake.ConfigurationKitInformation</value>
+    <value type="QString">PE.Profile.ToolChainsV3</value>
+    <value type="QString">CMakeProjectManager.CMakeKitInformation</value>
     <value type="QString">QtSupport.QtInformation</value>
    </valuelist>
   </valuemap>
