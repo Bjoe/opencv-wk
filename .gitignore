@@ -1,0 +1,9 @@
+poco/
+build-output/
+.sudo_as_admin_successful
+.cache/
+.ccache/
+.bash_history
+.android/
+.Xauthority
+build-env

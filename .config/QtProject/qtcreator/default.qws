@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE QtCreatorSession>
+<!-- Written by QtCreator 4.11.2, 2020-04-04T00:14:40. -->
+<qtcreator>
+ <data>
+  <variable>CascadeSetActive</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>Color</variable>
+  <value type="QString">#666666</value>
+ </data>
+ <data>
+  <variable>EditorSettings</variable>
+  <value type="QByteArray">AAAAD0VkaXRvck1hbmFnZXJWNQAAAAQAAAC2AC8AaABvAG0AZQAvAGQAZQB2AGUAbABvAHAAZQByAC8AUQB0AC0ANQAtAGEAbgBkAC0ATwBwAGUAbgBDAFYALQA0AC0AQwBvAG0AcAB1AHQAZQByAC0AVgBpAHMAaQBvAG4ALQBQAHIAbwBqAGUAYwB0AHMALwBDAGgAYQBwAHQAZQByAC0AMAA1AC8ATABpAHQAZQByAGEAYwB5AC8ATABpAHQAZQByAGEAYwB5AC4AcAByAG8AAAAMAAAAABgAAAABAAAAAAAAAAAAAAATAAAAAQAAAAAAAAC6AC8AaABvAG0AZQAvAGQAZQB2AGUAbABvAHAAZQByAC8AUQB0AC0ANQAtAGEAbgBkAC0ATwBwAGUAbgBDAFYALQA0AC0AQwBvAG0AcAB1AHQAZQByAC0AVgBpAHMAaQBvAG4ALQBQAHIAbwBqAGUAYwB0AHMALwBDAGgAYQBwAHQAZQByAC0AMAA0AC8ARgBhAGMAZQB0AGkAbwB1AHMALwBGAGEAYwBlAHQAaQBvAHUAcwAuAHAAcgBvAAAADAAAAAAYAAAAAQAAAAAAAAAAAAAACgAAACMAAAAAAAAAqgAvAGgAbwBtAGUALwBkAGUAdgBlAGwAbwBwAGUAcgAvAFEAdAAtADUALQBhAG4AZAAtAE8AcABlAG4AQwBWAC0ANAAtAEMAbwBtAHAAdQB0AGUAcgAtAFYAaQBzAGkAbwBuAC0AUAByAG8AagBlAGMAdABzAC8AQwBoAGEAcAB0AGUAcgAtADAAMwAvAEcAYQB6AGUAcgAvAEcAYQB6AGUAcgAuAHAAcgBvAAAADAAAAAAYAAAAAQAAAAAAAAAAAAAACgAAACMAAAAAAAAAwgAvAGgAbwBtAGUALwBkAGUAdgBlAGwAbwBwAGUAcgAvAFEAdAAtADUALQBhAG4AZAAtAE8AcABlAG4AQwBWAC0ANAAtAEMAbwBtAHAAdQB0AGUAcgAtAFYAaQBzAGkAbwBuAC0AUAByAG8AagBlAGMAdABzAC8AQwBoAGEAcAB0AGUAcgAtADAAMQAvAEkAbQBhAGcAZQBWAGkAZQB3AGUAcgAvAEkAbQBhAGcAZQBWAGkAZQB3AGUAcgAuAHAAcgBvAAAADAAAAAAYAAAAAQAAAAAAAAAAAAAAAQAAAAEAAAAAAAAABAAAALoALwBoAG8AbQBlAC8AZABlAHYAZQBsAG8AcABlAHIALwBRAHQALQA1AC0AYQBuAGQALQBPAHAAZQBuAEMAVgAtADQALQBDAG8AbQBwAHUAdABlAHIALQBWAGkAcwBpAG8AbgAtAFAAcgBvAGoAZQBjAHQAcwAvAEMAaABhAHAAdABlAHIALQAwADQALwBGAGEAYwBlAHQAaQBvAHUAcwAvAEYAYQBjAGUAdABpAG8AdQBzAC4AcAByAG8AAAAaAEYAYQBjAGUAdABpAG8AdQBzAC4AcAByAG8AAAARUXQ0LnByb0ZpbGVFZGl0b3IAAAAAqgAvAGgAbwBtAGUALwBkAGUAdgBlAGwAbwBwAGUAcgAvAFEAdAAtADUALQBhAG4AZAAtAE8AcABlAG4AQwBWAC0ANAAtAEMAbwBtAHAAdQB0AGUAcgAtAFYAaQBzAGkAbwBuAC0AUAByAG8AagBlAGMAdABzAC8AQwBoAGEAcAB0AGUAcgAtADAAMwAvAEcAYQB6AGUAcgAvAEcAYQB6AGUAcgAuAHAAcgBvAAAAEgBHAGEAegBlAHIALgBwAHIAbwAAABFRdDQucHJvRmlsZUVkaXRvcgAAAADCAC8AaABvAG0AZQAvAGQAZQB2AGUAbABvAHAAZQByAC8AUQB0AC0ANQAtAGEAbgBkAC0ATwBwAGUAbgBDAFYALQA0AC0AQwBvAG0AcAB1AHQAZQByAC0AVgBpAHMAaQBvAG4ALQBQAHIAbwBqAGUAYwB0AHMALwBDAGgAYQBwAHQAZQByAC0AMAAxAC8ASQBtAGEAZwBlAFYAaQBlAHcAZQByAC8ASQBtAGEAZwBlAFYAaQBlAHcAZQByAC4AcAByAG8AAAAeAEkAbQBhAGcAZQBWAGkAZQB3AGUAcgAuAHAAcgBvAAAAEVF0NC5wcm9GaWxlRWRpdG9yAAAAALYALwBoAG8AbQBlAC8AZABlAHYAZQBsAG8AcABlAHIALwBRAHQALQA1AC0AYQBuAGQALQBPAHAAZQBuAEMAVgAtADQALQBDAG8AbQBwAHUAdABlAHIALQBWAGkAcwBpAG8AbgAtAFAAcgBvAGoAZQBjAHQAcwAvAEMAaABhAHAAdABlAHIALQAwADUALwBMAGkAdABlAHIAYQBjAHkALwBMAGkAdABlAHIAYQBjAHkALgBwAHIAbwAAABgATABpAHQAZQByAGEAYwB5AC4AcAByAG8AAAARUXQ0LnByb0ZpbGVFZGl0b3IAAAABDQAAAA1jdXJyZW50ZWRpdG9yAAAAtgAvAGgAbwBtAGUALwBkAGUAdgBlAGwAbwBwAGUAcgAvAFEAdAAtADUALQBhAG4AZAAtAE8AcABlAG4AQwBWAC0ANAAtAEMAbwBtAHAAdQB0AGUAcgAtAFYAaQBzAGkAbwBuAC0AUAByAG8AagBlAGMAdABzAC8AQwBoAGEAcAB0AGUAcgAtADAANQAvAEwAaQB0AGUAcgBhAGMAeQAvAEwAaQB0AGUAcgBhAGMAeQAuAHAAcgBvAAAAIgBRAHQANAAuAHAAcgBvAEYAaQBsAGUARQBkAGkAdABvAHIAAAAYAAAAAQAAAAAAAAAAAAAAEwAAAAEAAAAAAAAAAA==</value>
+ </data>
+ <data>
+  <variable>ProjectDependencies</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+ <data>
+  <variable>ProjectList</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">/home/developer/opencv/CMakeLists.txt</value>
+   <value type="QString">/home/developer/Qt-5-and-OpenCV-4-Computer-Vision-Projects/Chapter-01/ImageViewer/ImageViewer.pro</value>
+   <value type="QString">/home/developer/Qt-5-and-OpenCV-4-Computer-Vision-Projects/Chapter-03/Gazer/Gazer.pro</value>
+   <value type="QString">/home/developer/Qt-5-and-OpenCV-4-Computer-Vision-Projects/Chapter-04/Facetious/Facetious.pro</value>
+   <value type="QString">/home/developer/Qt-5-and-OpenCV-4-Computer-Vision-Projects/Chapter-05/Literacy/Literacy.pro</value>
+   <value type="QString">/home/developer/tesseract/CMakeLists.txt</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>StartupProject</variable>
+  <value type="QString">/home/developer/Qt-5-and-OpenCV-4-Computer-Vision-Projects/Chapter-05/Literacy/Literacy.pro</value>
+ </data>
+ <data>
+  <variable>value-ActiveMode</variable>
+  <value type="QString">Edit</value>
+ </data>
+ <data>
+  <variable>value-Breakpoints</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>value-ProjectTree.ExpandData</variable>
+  <valuelist type="QVariantList">
+   <valuelist type="QVariantList">
+    <value type="QString">/home/developer/opencv</value>
+    <value type="QString">OpenCV [4.2.0]</value>
+   </valuelist>
+   <valuelist type="QVariantList">
+    <value type="QString">/home/developer/Qt-5-and-OpenCV-4-Computer-Vision-Projects/Chapter-03/Gazer</value>
+    <value type="QString">Gazer [master]</value>
+   </valuelist>
+   <valuelist type="QVariantList">
+    <value type="QString">/home/developer/Qt-5-and-OpenCV-4-Computer-Vision-Projects/Chapter-04/Facetious</value>
+    <value type="QString">Facetious [master]</value>
+   </valuelist>
+   <valuelist type="QVariantList">
+    <value type="QString">/home/developer/Qt-5-and-OpenCV-4-Computer-Vision-Projects/Chapter-01/ImageViewer</value>
+    <value type="QString">ImageViewer [master]</value>
+   </valuelist>
+   <valuelist type="QVariantList">
+    <value type="QString">/home/developer/Qt-5-and-OpenCV-4-Computer-Vision-Projects/Chapter-05/Literacy</value>
+    <value type="QString">Literacy [master]</value>
+   </valuelist>
+  </valuelist>
+ </data>
+ <data>
+  <variable>value-TaskWindow.Categories</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">Task.Category.QmlAnalysis</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>value-TaskWindow.IncludeWarnings</variable>
+  <value type="bool">true</value>
+ </data>
+ <data>
+  <variable>valueKeys</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">ActiveMode</value>
+   <value type="QString">Breakpoints</value>
+   <value type="QString">ProjectTree.ExpandData</value>
+   <value type="QString">TaskWindow.Categories</value>
+   <value type="QString">TaskWindow.IncludeWarnings</value>
+  </valuelist>
+ </data>
+</qtcreator>
